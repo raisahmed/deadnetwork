@@ -1,0 +1,49 @@
+body {
+	background: linear-gradient(-90deg, #F9C726, #E4137D);
+	margin: 0;
+	padding: 0;
+}
+
+#header {
+	height: 1040px;
+	background-image: url('assets/headerBlock.png');
+	margin: 20px;
+	background-size: cover;
+}
+
+#break {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px; 
+}
+
+#platformsHeader{
+	padding-bottom: 20px;
+}
+
+#genresHeader{
+	padding-bottom: 20px;
+}
+
+#genres{
+	padding-bottom: 150px;
+}
+
+#platforms {
+	font-size: 0;
+	width: 99%;
+	margin: 0 auto;
+}
+
+#genres {
+	font-size: 0;
+	width: 99%;
+	margin: 0 auto;
+
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}
+
